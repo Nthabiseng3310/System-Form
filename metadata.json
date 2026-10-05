@@ -1,0 +1,6 @@
+{
+  "name": "Nthabi's Touch - Luxury Massage & Spa",
+  "description": "Boutique massage and wellness studio in Sandton and Fourways, Johannesburg offering therapeutic and luxury spa treatments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,83 @@
+[
+  {
+    "id": "resp-1790923600606",
+    "submittedAt": "2026-10-02T06:46:40.606Z",
+    "payload": {
+      "Timestamp": "2026-10-02 06:46:25",
+      "First Name": "Live Delivery Verified",
+      "Mobile": "076 200 6014",
+      "Email": "rakuoanenthabiseng17@gmail.com",
+      "Preferred Contact": "WhatsApp",
+      "Treatments Interested In": "Couples Massage, Glow Facial",
+      "Main Need": "Rejuvenation",
+      "Visit Frequency": "Monthly",
+      "Occupation Status": "Self-Employed",
+      "Job Title / Field of Study": "Wellness Director",
+      "Area": "Sandton / Fourways",
+      "Suburb/City (Other)": "Fourways",
+      "Gender": "Female",
+      "Age Range": "25-34",
+      "Race": "African",
+      "Reward Code": "NT-LIVE-OK",
+      "Spa Personality": "The Serenity Purist 🌸",
+      "Consent Given": "YES",
+      "Source Page": "/quiz"
+    },
+    "forwardedToSheet": true,
+    "forwardError": null
+  },
+  {
+    "id": "resp-1790923594151",
+    "submittedAt": "2026-10-02T06:46:34.151Z",
+    "payload": {
+      "Timestamp": "2026-10-02 06:46:00",
+      "First Name": "Live Test Verified",
+      "Mobile": "076 200 6014",
+      "Email": "rakuoanenthabiseng17@gmail.com",
+      "Preferred Contact": "WhatsApp",
+      "Treatments Interested In": "Aromatherapy Massage, Facial",
+      "Main Need": "Deep relaxation & rejuvenation",
+      "Visit Frequency": "Monthly",
+      "Occupation Status": "Business Owner",
+      "Job Title / Field of Study": "Spa Wellness",
+      "Area": "Sandton / Fourways",
+      "Suburb/City (Other)": "Bryanston",
+      "Gender": "Female",
+      "Age Range": "25-34",
+      "Race": "African",
+      "Reward Code": "NT-LIVE100",
+      "Spa Personality": "The Zen Minimalist 🌿",
+      "Consent Given": "YES",
+      "Source Page": "/quiz"
+    },
+    "forwardedToSheet": true,
+    "forwardError": null
+  },
+  {
+    "id": "resp-1790923509408",
+    "submittedAt": "2026-10-02T06:45:09.408Z",
+    "payload": {
+      "Timestamp": "2026-10-02 06:45:00",
+      "First Name": "Test Verification",
+      "Mobile": "076 200 6014",
+      "Email": "test@nthabistouch.co.za",
+      "Preferred Contact": "WhatsApp",
+      "Treatments Interested In": "Hot Stone Massage",
+      "Main Need": "Deep relaxation",
+      "Visit Frequency": "First time",
+      "Occupation Status": "Employed",
+      "Job Title / Field of Study": "Testing",
+      "Area": "Sandton / Fourways",
+      "Suburb/City (Other)": "N/A",
+      "Gender": "Female",
+      "Age Range": "25-34",
+      "Race": "African",
+      "Reward Code": "NT-TEST99",
+      "Spa Personality": "The Glow Seeker ✨",
+      "Consent Given": "YES",
+      "Source Page": "/"
+    },
+    "forwardedToSheet": true,
+    "forwardError": null
+  }
+]
